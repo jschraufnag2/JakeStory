@@ -1,7 +1,12 @@
 Once upon a time there was a boy named Joe. Joe was a curious kid, and loved to get into trouble. 
 One day Joe's curiosity took over and changed his life forever.
 It was a normal day like the others. Joe got up early. After finishing breakfast, he said bye to his mother and left home for school.
+<<<<<<< HEAD
 But when Joe went out the door, he went in the complete opposite direction of school. Joe started making his way 
 towards the arcade, where he could spend the whole day playing games. When Joe got to the arcade, he met up with some of his friends who also decided to take a day off of school. They spent hours at the arcade, until they ran out of  quarters and decided to head home.
 
+=======
+On his way to school, he saw children building snowman and playing snowball fight. He was curious which team would win. He spent two hours there and was late for class.
+>>>>>>> 27eced37d9d0bada90e3125dd7c458e67fd9682f
 
+In a haste, Joe began to run to class as fast as his legs possibly could. Joe ran faster than he ever had and barely made it in time to hear the bell ring. He sat down in his seat and pulled out his books and placed them on the table ready for his last week of class.
